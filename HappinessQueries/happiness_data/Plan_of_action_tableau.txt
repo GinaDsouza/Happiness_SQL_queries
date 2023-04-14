@@ -1,0 +1,7 @@
+- Create a correlation table for every factor with the happiness score
+
+-take average of top countries and then bottom countries and compare it with India's to get a picture on what India was doing right and where it can improve (year wise? or average?)
+
+IF TIME PERMITS
+-see how the factors change every year. See the trend for each country and then highlight the ones with an interesting trend. If there isnt an interesting trend, give a general view if all factors of each country group follows is the similar.
+

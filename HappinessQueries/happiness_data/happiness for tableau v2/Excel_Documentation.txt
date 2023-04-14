@@ -1,0 +1,3 @@
+- Used power query editor to unpivot the columns
+
+-copied the table which was the result of the power query editor an pasted 'only values' in a new sheet

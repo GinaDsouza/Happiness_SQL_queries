@@ -1,0 +1,2 @@
+- create a sheet containing all graphs for each country
+- then copy the graph of a certain factor and combine it in the dashboard
